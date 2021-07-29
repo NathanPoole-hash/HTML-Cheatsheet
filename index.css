@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size:22px;
+    font-family: Arial;
+    border-style: solid;
+        background-color: rgb(247, 192, 247);
+    color: black;  
+    border-collapse:collapse;
+}
+
+th, td {
+    border-style: solid;
+    border-color:#ebeb7a;
+}
+
+th {
+    background-color: rgb(175, 107, 130);
+}
